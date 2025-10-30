@@ -35,4 +35,4 @@ sub = "JavaScript"
 // console.log(typeof undefined); // tyepof keyword lets us know the data type of the value passed after it. In this case it's undefined
 // console.log(typeof null) // object data type
 
-
+ 

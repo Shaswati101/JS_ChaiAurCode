@@ -7,4 +7,6 @@ console.log(2 == 2);
 // etc. You know the drill
 
 //But, what if we try to convert a string with a number?
-console.log("a"==2);
+console.log("a" == 2); // Returns false
+console.log("a" === 2); // Returns false
+
